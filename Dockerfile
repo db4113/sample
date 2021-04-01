@@ -1,2 +1,2 @@
 FROM java:8-jdk-alpine
-ADD target/sample-1.jar sample-1.jar
+ADD target/sample-0.0.1-SNAPSHOT.jar sample-0.0.1-SNAPSHOT.jar
